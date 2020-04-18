@@ -1,0 +1,1742 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:z0000001579647670647*4194931873532167074,z0000001579647835417*8295503046096670734,z0000001579647882528*2187983090771562687,z0000001579647926957*2071743374765200096,z0000001579648000600*4401371777009825102,z0000001579648214300*7954896960933876818,z0000001579648258328*3143987751426572720,z0000001579648297978*1512203543335690855,z0000001579648337251*9006005869323154717,z0000001579648368359*8874188526111338244,z0000001579648405605*4512800766732975037,z0000001579648444389*7522969090313285950,z0000001579648482973*4328888232153175539,z0000001579648510413*5043720880749857073,z0000001579648531609*2540995238269189114,z0000001579648553346*8409054605700862440,z0000001579648579950*4906038483904139901,z0000001579648611532*3870885959195016609,z0000001579648813217*3156821445712571084,z0000001579648894860*1761626452788952020,z0000001579648928937*0250719052600435938,z0000001579648952311*2028488557547567356,z0000001579648974048*3116717986159937627,z0000001579648998674*0366560020076936531,z0000001579649019650*7553694002017030784,z0000001579649066808*8834234006320519162,z0000001579649096907*6677230837505062363,z0000001579649124379*0383823442815514573,z0000001579649149349*6374275134393078835,z0000001579649169766*2345000212390858903,z0000001579649199100*1296799248250229169,z0000001579649218867*6067550483224348575,z0000001579649244048*7417473433400339894,z0000001579649264533*6946654612115233037,z0000001579649290314*4336948836731281303,z0000001579649367355*1782331931216423323,z0000001579649396189*7851216055033068171,z0000001579649416941*7497484715464044756,z0000001579649446738*0915926985922403420,z0000001579649469580*7321188465015533495,z0000001579649494067*2080648373190303104,z0000001579649514200*6619441477611145245,z0000001579649536581*2313356018856272727,z0000001579650159615*3375894954280578181,z0000001579650190644*1793672748216041580,z0000001579650270529*1911281359280388895,z0000001579650300542*8533137853410435376,z0000001579650498824*3547880802461896099,z0000001579650704063*7980569893324193783,z0000001579650747168*1345882095499971762,z0000001579650764290*6172314520975694619,z0000001579650787323*2525922693700614775,z0000001579650807323*5071555705756286095,z0000001579650899118*0026695786968198995,z0000001579651020207*5802408163371777580,z0000001579651152341*8346986371339565158,z0000001579651174695*5844464315350191632,z0000001579651196433*6390920194972817980,z0000001579651216898*7971811362370186813,z0000001579651237790*4109098686988850351,z0000001579651261577*6940633959383806478,z0000001579651283219*5251909001294479891,z0000001579651305793*3453606587075998454,z0000001579651327139*4785094275168140170,z0000001579651375535*4737782463439288655,z0000001579651398754*1731900434242338094,z0000001579651419499*2490915797307425552,z0000001579651446849*8298671448908420677,z0000001579651474900*5286183638463459499,z0000001579651554515*2834650890459310259,z0000001579651640799*4598739637858876484,z0000001579651685503*0848985307180733521,z0000001579651710850*0133801485565504771,z0000001579651737244*9049615019285764679,z0000001579651761693*7047765632900568378,z0000001579651815257*1176651965056045515,z0000001579651835567*4268376513281920084,z0000001579651858721*4134891583669543886,z0000001579651962459*6270914373081379070,z0000001579651982989*1932076947493920847,z0000001579652142301*6655009408206208889,z0000001579652321328*7872609586342020238,z0000001579652741831*2078864108307868004,z0000001579652767347*5772199802335923418,z0000001579652793659*5527597616031207965,z0000001579652814349*6420784643314788198,z0000001579652835121*6631997820759894413,z0000001579652895732*3613742290561843985,z0000001579652929388*7311297305709185988,z0000001579653033034*8966926423269149394,z0000001579653057265*5182829705741355045,z0000001579653079374*6212661503996553595,z0000001579653101256*6534846232671713753,z0000001579653213370*3921515614297103478,z0000001579653244342*1044847303815238809,z0000001579653356506*6822284304313995346,z0000001579653380608*5249994585627177956,z0000001579653529219*3192574652387333887,z0000001579653555969*2089507247513081945,z0000001579653580872*6440946981100615471,z0000001579653737262*2490604821587026910,z0000001579654260652*0217054896984197462,z0000001579654299834*4754201666889134768,z0000001579656041687*0942852602564572580,z0000001579656077872*5141223336478605377,z0000001579656103105*6788773147824368867,z0000001579656122307*4761590422973164024,z0000001579656387893*8830529391675090568,z0000001579656417045*7969594108074193730,z0000001579656444549*4021269066472555370,z0000001579656518664*4395264740041007987,z0000001579656792985*1441457572849863582,z0000001579656860616*6193402902962112214,z0000001579656881535*7480029813698343813,z0000001579656900973*0912174119376673260,z0000001579656924827*5273397379916877494,z0000001579656947513*4067668271548713062,z0000001579657026791*7035034886794657422,z0000001579657062418*4847886896659594409,z0000001579657135917*2162483887229042635,z0000001579657211328*6682000549151972546,z0000001579657316256*1337135396539459899,z0000001579657343092*1056302011295264041,z0000001579657674869*1296247567971956207,z0000001579658120283*1083908254741120487,z0000001579658161538*8290116811877107915,z0000001579658206388*0674141508178681629,z0000001579660199082*0302142356813630761,z0000001579660306406*5957635288522329596,z0000001579660351674*0153557369537992455,z0000001579660384125*5275597406255974730,z0000001579663427270*0446973466957186056,z0000001579663464655*7383732522435782790,z0000001581895480484*2072994062011688160</id>
+	<updated>2020-04-18T11:26:59Z</updated>
+	<author>
+		<name>Nicolas Ryan Villar</name>
+		<email>nicolas_villar@dlsu.edu.ph</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579647670647*4194931873532167074</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='OVPERI'/>
+		<apps:property name='label' value='[OVPERI]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579647835417*8295503046096670734</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='Obituary'/>
+		<apps:property name='label' value='[Obituary]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579647882528*2187983090771562687</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='HSO'/>
+		<apps:property name='label' value='[HSO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579647926957*2071743374765200096</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='SSO'/>
+		<apps:property name='label' value='[SSO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579648000600*4401371777009825102</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='BSD'/>
+		<apps:property name='label' value='[BSD]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579648214300*7954896960933876818</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='OVPLM'/>
+		<apps:property name='label' value='[OVPLM]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579648258328*3143987751426572720</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='OVC'/>
+		<apps:property name='label' value='[OVC]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579648297978*1512203543335690855</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='OUR'/>
+		<apps:property name='label' value='[OUR]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579648337251*9006005869323154717</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='CAO'/>
+		<apps:property name='label' value='[CAO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579648368359*8874188526111338244</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='USO'/>
+		<apps:property name='label' value='[USO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579648405605*4512800766732975037</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='PHILOSOPHY'/>
+		<apps:property name='label' value='[PHILOSOPHY]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579648444389*7522969090313285950</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='SDFO'/>
+		<apps:property name='label' value='[SDFO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579648482973*4328888232153175539</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='OAVCAS'/>
+		<apps:property name='label' value='[OAVCAS]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579648510413*5043720880749857073</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='SLIFE'/>
+		<apps:property name='label' value='[SLIFE]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579648531609*2540995238269189114</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='OAS'/>
+		<apps:property name='label' value='[OAS]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579648553346*8409054605700862440</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='MARKETING'/>
+		<apps:property name='label' value='[MARKETING]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579648579950*4906038483904139901</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='NFO'/>
+		<apps:property name='label' value='[NFO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579648611532*3870885959195016609</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='PHYSICS'/>
+		<apps:property name='label' value='[PHYSICS]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579648813217*3156821445712571084</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='URCO'/>
+		<apps:property name='label' value='[URCO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579648894860*1761626452788952020</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='VCA'/>
+		<apps:property name='label' value='[VCA]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579648928937*0250719052600435938</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='BNSCWC'/>
+		<apps:property name='label' value='[BNSCWC]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579648952311*2028488557547567356</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='SOE'/>
+		<apps:property name='label' value='[SOE]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579648974048*3116717986159937627</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='OCCS'/>
+		<apps:property name='label' value='[OCCS]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579648998674*0366560020076936531</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='PED'/>
+		<apps:property name='label' value='[PED]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579649019650*7553694002017030784</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='CLA'/>
+		<apps:property name='label' value='[CLA]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579649066808*8834234006320519162</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='LCC'/>
+		<apps:property name='label' value='[LCC]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579649096907*6677230837505062363</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='LSPO'/>
+		<apps:property name='label' value='[LSPO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579649124379*0383823442815514573</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='SMO'/>
+		<apps:property name='label' value='[SMO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579649149349*6374275134393078835</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='OAVCCS'/>
+		<apps:property name='label' value='[OAVCCS]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579649169766*2345000212390858903</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='COSCA'/>
+		<apps:property name='label' value='[COSCA]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579649199100*1296799248250229169</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='MATH'/>
+		<apps:property name='label' value='[MATH]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579649218867*6067550483224348575</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='DITO'/>
+		<apps:property name='label' value='[DITO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579649244048*7417473433400339894</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='DATA SCIENCE'/>
+		<apps:property name='label' value='[DATA SCIENCE]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579649264533*6946654612115233037</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='ASIST'/>
+		<apps:property name='label' value='[ASIST]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579649290314*4336948836731281303</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='SO'/>
+		<apps:property name='label' value='[SO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579649367355*1782331931216423323</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='LIBRARIES'/>
+		<apps:property name='label' value='[LIBRARIES]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579649396189*7851216055033068171</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='OVCAdmin'/>
+		<apps:property name='label' value='[OVCAdmin]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579649416941*7497484715464044756</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='BIOLOGY'/>
+		<apps:property name='label' value='[BIOLOGY]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579649446738*0915926985922403420</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='ANIMO LABS'/>
+		<apps:property name='label' value='[ANIMO LABS]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579649469580*7321188465015533495</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='REO'/>
+		<apps:property name='label' value='[REO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579649494067*2080648373190303104</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='CENSER'/>
+		<apps:property name='label' value='[CENSER]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579649514200*6619441477611145245</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='STRATCOM'/>
+		<apps:property name='label' value='[STRATCOM]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579649536581*2313356018856272727</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='CPDB'/>
+		<apps:property name='label' value='[CPDB]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579650159615*3375894954280578181</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='DLSAA'/>
+		<apps:property name='label' value='[DLSAA]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579650190644*1793672748216041580</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='OFFICE OF THE CHANCELLOR'/>
+		<apps:property name='label' value='[Office of the Chancellor]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579650270529*1911281359280388895</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='DLSU-IS'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579650300542*8533137853410435376</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='DSA'/>
+		<apps:property name='label' value='[DSA]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579650498824*3547880802461896099</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='BGMO'/>
+		<apps:property name='label' value='[BGMO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579650704063*7980569893324193783</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='AMO'/>
+		<apps:property name='label' value='[AMO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579650747168*1345882095499971762</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='SAO'/>
+		<apps:property name='label' value='[SAO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579650764290*6172314520975694619</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='FILIPINO'/>
+		<apps:property name='label' value='[FILIPINO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579650787323*2525922693700614775</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='CSO'/>
+		<apps:property name='label' value='[CSO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579650807323*5071555705756286095</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='VCRI'/>
+		<apps:property name='label' value='[VCRI]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579650899118*0026695786968198995</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='ITEO'/>
+		<apps:property name='label' value='[ITEO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651020207*5802408163371777580</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='ADRIC-COMET'/>
+		<apps:property name='label' value='[ADRIC-COMET]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651152341*8346986371339565158</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='OSD'/>
+		<apps:property name='label' value='[OSD]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651174695*5844464315350191632</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='CHEMISTRY'/>
+		<apps:property name='label' value='[CHEMISTRY]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651196433*6390920194972817980</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='HISTORY'/>
+		<apps:property name='label' value='[HISTORY]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651216898*7971811362370186813</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='DLSUSFI'/>
+		<apps:property name='label' value='[DLSUSFI]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651237790*4109098686988850351</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='GCOE'/>
+		<apps:property name='label' value='[GCOE]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651261577*6940633959383806478</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='DSI'/>
+		<apps:property name='label' value='[DSI]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651283219*5251909001294479891</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='RVRCOB'/>
+		<apps:property name='label' value='[RVRCOB]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651305793*3453606587075998454</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='COS'/>
+		<apps:property name='label' value='[COS]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651327139*4785094275168140170</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='DPO'/>
+		<apps:property name='label' value='[DPO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651375535*4737782463439288655</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='PSYCHOLOGY'/>
+		<apps:property name='label' value='[PSYCHOLOGY]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651398754*1731900434242338094</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='CE'/>
+		<apps:property name='label' value='[CE]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651419499*2490915797307425552</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='DEAL'/>
+		<apps:property name='label' value='[DEAL]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651446849*8298671448908420677</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='JRIG'/>
+		<apps:property name='label' value='[JRIG]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651474900*5286183638463459499</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='TRED'/>
+		<apps:property name='label' value='[TRED]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651554515*2834650890459310259</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='FINANCE AND ACCOUNTING OFFICE'/>
+		<apps:property name='label' value='[FINANCE AND ACCOUNTING OFFICE]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651640799*4598739637858876484</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='OFFICE OF THE PRESIDENT'/>
+		<apps:property name='label' value='[President&apos;s Office]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651685503*0848985307180733521</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='IS'/>
+		<apps:property name='label' value='[IS]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651710850*0133801485565504771</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='CESDR'/>
+		<apps:property name='label' value='[CESDR]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651737244*9049615019285764679</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='POLSCI'/>
+		<apps:property name='label' value='[POLSCI]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651761693*7047765632900568378</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='LEGAL COUNSEL'/>
+		<apps:property name='label' value='[LEGAL COUNSEL]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651815257*1176651965056045515</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='CoNIC'/>
+		<apps:property name='label' value='[CoNIC]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651835567*4268376513281920084</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='RMCA'/>
+		<apps:property name='label' value='[RMCA]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651858721*4134891583669543886</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='ELMD'/>
+		<apps:property name='label' value='[ELMD]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651962459*6270914373081379070</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='DLSU-IBEHT'/>
+		<apps:property name='label' value='[DLSU-IBEHT]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579651982989*1932076947493920847</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='MEWO'/>
+		<apps:property name='label' value='[MEWO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579652142301*6655009408206208889</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='FOOD AND WATER INSTITUTE'/>
+		<apps:property name='label' value='[Food/Water Institute]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579652321328*7872609586342020238</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='CCS'/>
+		<apps:property name='label' value='[CCS]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579652741831*2078864108307868004</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='COL'/>
+		<apps:property name='label' value='[COL]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579652767347*5772199802335923418</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='OPM'/>
+		<apps:property name='label' value='[OPM]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579652793659*5527597616031207965</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='DIPO'/>
+		<apps:property name='label' value='[DIPO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579652814349*6420784643314788198</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='THE STORE'/>
+		<apps:property name='label' value='[THE STORE]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579652835121*6631997820759894413</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='SHSE'/>
+		<apps:property name='label' value='[SHSE]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579652895732*3613742290561843985</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='MUSEUM'/>
+		<apps:property name='label' value='[MUSEUM]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579652929388*7311297305709185988</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='CHEME'/>
+		<apps:property name='label' value='[CHEME]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579653033034*8966926423269149394</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='SHS-OSA'/>
+		<apps:property name='label' value='[SHS-OSA]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579653057265*5182829705741355045</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='ACCTY'/>
+		<apps:property name='label' value='[ACCTY]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579653079374*6212661503996553595</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='AARO'/>
+		<apps:property name='label' value='[AARO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579653101256*6534846232671713753</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='IE'/>
+		<apps:property name='label' value='[IE]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579653213370*3921515614297103478</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='DLSUPH'/>
+		<apps:property name='label' value='[DLSUPH]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579653244342*1044847303815238809</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='SHORE'/>
+		<apps:property name='label' value='[SHORE]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579653356506*6822284304313995346</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='ESH'/>
+		<apps:property name='label' value='[ESH]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579653380608*5249994585627177956</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='VPLM'/>
+		<apps:property name='label' value='[VPLM]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579653529219*3192574652387333887</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='BAGCED'/>
+		<apps:property name='label' value='[BAGCED]'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579653555969*2089507247513081945</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='MOD'/>
+		<apps:property name='label' value='[MOD]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579653580872*6440946981100615471</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='FMD'/>
+		<apps:property name='label' value='[FMD]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579653737262*2490604821587026910</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='LMO'/>
+		<apps:property name='label' value='[LMO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579654260652*0217054896984197462</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='ERIO'/>
+		<apps:property name='label' value='[ERIO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579654299834*4754201666889134768</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='COMMUNICATION'/>
+		<apps:property name='label' value='[COMMUNICATION]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579656041687*0942852602564572580</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='PUSO'/>
+		<apps:property name='label' value='[PUSO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579656077872*5141223336478605377</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='LITERATURE'/>
+		<apps:property name='label' value='[LITERATURE]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579656103105*6788773147824368867</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='OASIS'/>
+		<apps:property name='label' value='[OASIS]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579656122307*4761590422973164024</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='LSEED'/>
+		<apps:property name='label' value='[LSEED]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579656387893*8830529391675090568</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='OAVCFM'/>
+		<apps:property name='label' value='[OAVCFM]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579656417045*7969594108074193730</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='COMLAW'/>
+		<apps:property name='label' value='[COMLAW]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579656444549*4021269066472555370</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='AKI'/>
+		<apps:property name='label' value='[AKI]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579656518664*4395264740041007987</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='DLSU-IPA'/>
+		<apps:property name='label' value='[DLSU-IPA]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579656792985*1441457572849863582</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='SED'/>
+		<apps:property name='label' value='[SED]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579656860616*6193402902962112214</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='CSWO'/>
+		<apps:property name='label' value='[CSWO]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579656881535*7480029813698343813</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='MEM'/>
+		<apps:property name='label' value='[MEM]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579656900973*0912174119376673260</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='SDRC'/>
+		<apps:property name='label' value='[SDRC]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579656924827*5273397379916877494</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='LIDER'/>
+		<apps:property name='label' value='[LIDER]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579656947513*4067668271548713062</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='OVEPERI'/>
+		<apps:property name='label' value='[OVEPERI]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579657026791*7035034886794657422</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='PROCUREMENT'/>
+		<apps:property name='label' value='[PROCUREMENT]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579657062418*4847886896659594409</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='INTERNATIONAL STUDIES'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579657135917*2162483887229042635</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='DLSCC'/>
+		<apps:property name='label' value='[DLSCC]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579657211328*6682000549151972546</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='INTEGRATED SCHOOL'/>
+		<apps:property name='label' value='[INTEGRATED SCHOOL]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579657316256*1337135396539459899</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='FA'/>
+		<apps:property name='label' value='[FA]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579657343092*1056302011295264041</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='CSA'/>
+		<apps:property name='label' value='[CSA]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579657674869*1296247567971956207</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='SHS'/>
+		<apps:property name='label' value='[SHS]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579658120283*1083908254741120487</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='RVR-COB'/>
+		<apps:property name='label' value='[RVRCOB]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579658161538*8290116811877107915</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='CELL'/>
+		<apps:property name='label' value='[CELL]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579658206388*0674141508178681629</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='ST'/>
+		<apps:property name='label' value='[ST]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579660199082*0302142356813630761</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='DLSU-EA'/>
+		<apps:property name='label' value='[DLSU-EA]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579660306406*5957635288522329596</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='ME'/>
+		<apps:property name='label' value='[ME]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579660351674*0153557369537992455</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='CBRD'/>
+		<apps:property name='label' value='[CBRD]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579660384125*5275597406255974730</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='OSA'/>
+		<apps:property name='label' value='[OSA]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579663427270*0446973466957186056</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='OAVCCD'/>
+		<apps:property name='label' value='[OAVCCD]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001579663464655*7383732522435782790</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='subject' value='ECE'/>
+		<apps:property name='label' value='[ECE]'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001581895480484*2072994062011688160</id>
+		<updated>2020-04-18T11:26:59Z</updated>
+		<content></content>
+		<apps:property name='from' value='announcement@dlsu.edu.ph'/>
+		<apps:property name='label' value='(ALL DLSU MAIL)'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
