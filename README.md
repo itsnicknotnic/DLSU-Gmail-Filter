@@ -26,5 +26,6 @@ It’s a Gmail filter system that anyone can use really easily!
   <li>Go to the bottom of the page and import + open the file in Gmail's settings.</li>
   <li>It may take a while to load all 100+ filters. Give it 10 minutes, maybe 30 at most.
 </ol>
+
 [Step 3.1: select all loaded filters, create, apply](https://imgur.com/a/doImQZl)</li>
 
