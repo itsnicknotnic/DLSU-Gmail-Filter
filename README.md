@@ -14,7 +14,9 @@ It’s a Gmail filter system that anyone can use really easily!
   <li>Go to Gmail settings, and go to "Filters and Blocked Addresses"</li>
 </ol>
 [Step 2.1: settings > filters and blocked addresses](https://imgur.com/a/SEtEjzM)
+
 [Step 2.2: import and opening the file in gmail settings[(https://imgur.com/a/ziEg5z4)
+
 [Step 2.3: bottom of the page, import + open file](https://imgur.com/a/6HDj1rJ)
 
 # Step 3: Installing the settings
