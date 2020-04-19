@@ -11,7 +11,9 @@ It’s a Gmail filter system that anyone can use really easily!
 
 # Step 2: Importing the settings
 <ol>
-  <li>Go to Gmail settings, and go to "Filters and Blocked Addresses"</li>
+  <li>Go to Gmail settings,</li>
+  <li>and go to "Filters and Blocked Addresses"</li>
+  <li>Import and open the file in Gmail settings</li>
 </ol>
 
 [Step 2.1: settings - filters and blocked addresses](https://imgur.com/a/SEtEjzM)
