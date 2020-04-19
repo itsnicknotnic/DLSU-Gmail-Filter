@@ -5,8 +5,8 @@ It’s a Gmail filter system that anyone can use really easily!
 
 # Step 1: Downloading the file
 <ol>
-  <li>Download the .xml file "DLSU Gmail Filter - All 100+ Filters (UPDATED)"</li>
-  <li>You can also use the link bit.ly/dlsu-gmail-filter as its own Google Drive, complete with instructions, images, and files too.</li>
+  <li>Download the .xml file "DLSU Gmail Filter - All 100+ Filters (UPDATED)", right above this readme section.</li>
+  <li>You can also use the Google Drive link (bit.ly/dlsu-gmail-filter), complete with instructions, images, and files too.</li>
 </ol>
 
 # Step 2: Importing the settings
