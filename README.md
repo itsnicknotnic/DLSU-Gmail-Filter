@@ -27,3 +27,4 @@ It’s a Gmail filter system that anyone can use really easily!
 
 [Step 3: Image Reference](https://imgur.com/a/doImQZl)</li>
 
+Hope this helps, message me if you have any questions! If ever you install it in the wrong email, manual uninstall process is included in the bit.ly Google Drive link. (bit.ly/dlsu-gmail-filter)
