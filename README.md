@@ -16,7 +16,7 @@ It’s a Gmail filter system that anyone can use really easily!
   <li>Import and open the file in Gmail settings</li>
 </ol>
 
-[Step 2 - image references](https://imgur.com/a/SEtEjzM)
+[Step 2: Image References](https://imgur.com/a/SEtEjzM)
 
 # Step 3: Installing the settings
 <ol>
@@ -25,5 +25,5 @@ It’s a Gmail filter system that anyone can use really easily!
   <li>It may take a while to load all 100+ filters. Give it 10 minutes, maybe 30 at most.
 </ol>
 
-[Step 3: select all loaded filters, create, apply](https://imgur.com/a/doImQZl)</li>
+[Step 3: Image Reference](https://imgur.com/a/doImQZl)</li>
 
