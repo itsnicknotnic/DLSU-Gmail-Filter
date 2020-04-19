@@ -8,14 +8,18 @@ It’s a Gmail filter system that anyone can use really easily!
   <li>Download the .xml file "DLSU Gmail Filter - All 100+ Filters (UPDATED)"</li>
   <li>You can also use the link bit.ly/dlsu-gmail-filter as its own Google Drive, complete with instructions, images, and files too.</li>
 </ol>
-<h2>HTML Image</h2>
-<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 
 # Step 2: Importing the settings
 <ol>
   <li>Go to Gmail settings, and go to "Filters and Blocked Addresses"</li>
+<h2>HTML Image</h2>
+<img src="step2.1.jpg" alt="Trulli">
+
   <li>Go to the bottom of the page and import + open the file in Gmail's settings.</li>
+
+
 </ol>
+
 
 # Step 3: Installing the settings
 <ol>
