@@ -13,6 +13,7 @@ It’s a Gmail filter system that anyone can use really easily!
 <ol>
   <li>Go to Gmail settings, and go to "Filters and Blocked Addresses"</li>
 </ol>
+
 [Step 2.1: settings - filters and blocked addresses](https://imgur.com/a/SEtEjzM)
 
 [Step 2.2: import and opening the file in gmail settings](https://imgur.com/a/ziEg5z4)
